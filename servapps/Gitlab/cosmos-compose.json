@@ -13,7 +13,7 @@
             "hostname": "{ServiceName}",
             "restart": "unless-stopped",
             "environment": [
-                "GITLAB_OMNIBUS_CONFIG=external_url '{Hostnames.{StaticServiceName}.{StaticServiceName}.host}'; gitlab_rails['gitlab_shell_ssh_port'] = 2424"
+                "GITLAB_OMNIBUS_CONFIG=external_url 'https://{Hostnames.{StaticServiceName}.{StaticServiceName}.host}'; gitlab_rails['gitlab_shell_ssh_port'] = 2424"
             ],
             "ports": [
                 "2424:22"
