@@ -1,0 +1,9 @@
+{
+    "name": "GitLab",
+    "longDescription": "<p>GitLab is an Open Source code repository and collaborative software development platform for large DevOps and DevSecOps projects.< /p>",
+    "description": "GitLab is an Open Source code repository and collaborative software development platform for large DevOps and DevSecOps projects.",
+    "tags": ["development", "devops", "ci/cd", "code", "secure", "git", "ci", "cd", "build"],
+    "repository": "https://gitlab.com/gitlab-org/gitlab",
+    "image": "https://hub.docker.com/r/gitlab/gitlab-ce",
+    "supported_architectures": ["amd64"]
+}
