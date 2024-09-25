@@ -8,7 +8,7 @@
     "minVersion": "0.9.0",
     "services": {
         "{ServiceName}": {
-            "image": "gitlab/gitlab-ce:latest",
+            "image": "zengxs/gitlab:ce",
             "container_name": "{ServiceName}",
             "hostname": "{ServiceName}",
             "restart": "unless-stopped",
