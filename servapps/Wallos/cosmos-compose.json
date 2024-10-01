@@ -11,7 +11,6 @@
                 "TZ=Europe/Warsaw"
             ],
             "labels": {
-                "cosmos-persistent-env": "TZ",
                 "cosmos-network-name": "AUTO",
                 "cosmos-auto-update": "true",
                 "cosmos-icon": "https://pgodzwa.github.io/cosmos-pg-store/Wallos/icon.png"

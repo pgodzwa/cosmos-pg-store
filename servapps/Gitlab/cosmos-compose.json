@@ -20,7 +20,6 @@
             ],
             "shm_size": "256m",
             "labels": {
-                "cosmos-persistent-env": "GITLAB_OMNIBUS_CONFIG",
                 "cosmos-network-name": "AUTO",
                 "cosmos-auto-update": "true",
                 "cosmos-icon": "https://pgodzwa.github.io/cosmos-pg-store/Gitlab/icon.png"

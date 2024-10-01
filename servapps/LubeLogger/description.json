@@ -1,0 +1,9 @@
+{
+    "name": "LubeLogger",
+    "longDescription": "<p>Self-Hosted, Open-Source, Web-Based Vehicle Maintenance and Fuel Mileage Tracker</p>",
+    "description": "Self-Hosted, Open-Source, Web-Based Vehicle Maintenance and Fuel Mileage Tracker.",
+    "tags": ["vehicle maintenance", "fuel mileage tracker"],
+    "repository": "https://github.com/hargata/lubelog",
+    "image": "https://github.com/hargata/lubelog/pkgs/container/lubelogger",
+    "supported_architectures": ["amd64", "arm64"]
+}
